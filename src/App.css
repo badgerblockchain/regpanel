@@ -1,38 +1,135 @@
-.App {
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
   color: white;
+  margin: 10px;
+  padding: 15px;
 }
 
-.App-link {
-  color: #61dafb;
+.eth {
+  color: #716b94;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.hotfix {
+  clear:both;
+}
+
+.headers {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  margin: 5px;
+
+}
+
+.mod-style {
+  display: flex;
+  justify-content: center;
+}
+
+.hosted-by {
+  display: flex;
+  justify-content: center;
+}
+
+.smaller-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  float: left;
+  padding: 5px;
+}
+
+.speaker-box {
+  display: block;
+  border: 1px black solid;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.moderators {
+  display: inline-block;
+  border: 1px black solid;
+  border-radius: 10px;
+  margin: 10px;
+  height: 110px;
+}
+
+.button-date {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  color: black;
+  margin: 10px;
+  padding: 10px;
+}
+
+.button {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+}
+
+.badge {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  color: white;
+  margin-top: 10px;
+}
+
+.left-side {
+  background-color: #181A18;
+  /* height: 100vh; */
+}
+
+.right-side {
+  background-color: white;
+}
+
+.names {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  margin: 2px;
+}
+
+.moderators-names {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  margin: 2px;
+}
+
+.positions {
+  font-family: 'Inter';
+  font-style: normal;
+  font-size: 16px;
+}
+
+.badger {
+  font-family: 'Inter';
+  font-style: normal;
+  color: #C5050C;
+  margin-bottom: 5px;
+}
+
+.nick {
+  font-family: 'Inter';
+  font-style: normal;
+  margin-bottom: 5px;
 }
