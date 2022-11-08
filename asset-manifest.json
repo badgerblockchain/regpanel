@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/regpanel/static/css/main.6c10e2d8.css",
+    "main.js": "/regpanel/static/js/main.a60e8556.js",
+    "static/js/787.b2a74150.chunk.js": "/regpanel/static/js/787.b2a74150.chunk.js",
+    "index.html": "/regpanel/index.html",
+    "main.6c10e2d8.css.map": "/regpanel/static/css/main.6c10e2d8.css.map",
+    "main.a60e8556.js.map": "/regpanel/static/js/main.a60e8556.js.map",
+    "787.b2a74150.chunk.js.map": "/regpanel/static/js/787.b2a74150.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c10e2d8.css",
+    "static/js/main.a60e8556.js"
+  ]
+}
