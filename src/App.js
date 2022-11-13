@@ -17,9 +17,9 @@ function App() {
         <Col className="left-side" xs={12} md={12} lg={6}>
           <h1 className="title">THE FUTURE OF CRYPTO REGULATION IN THE UNITED STATES: IS <span className="eth"> ethereum </span> A SECURITY NOW? </h1>
           <Container xs={12} className="d-flex justify-content-center">
-            <Button href="https://www.badgerblockchain.com/" target="_blank" rel="noopener noreferrer" className="button" variant="success" size="lg" >Register </Button>
+            <Button href="https://tinyurl.com/z2ppufs5" target="_blank" rel="noopener noreferrer" className="button" variant="success" size="lg" >Register </Button>
             <Button className="button-date" variant="light" size="lg" >11.28.2022 </Button>
-            <Button href="https://www.badgerblockchain.com/" target="_blank" rel="noopener noreferrer" className="button" variant="primary" size="lg" >Zoom </Button>
+            <Button href="https://uwmadison.zoom.us/j/92206551524" target="_blank" rel="noopener noreferrer" className="button" variant="primary" size="lg" >Zoom </Button>
           </Container>
         </Col>
         <Col md={12} lg={6} className="right-side">
